@@ -1,0 +1,9 @@
+D:\찬형\방학 세미나\chat2\chat2\chat2\bin\Debug\chat2.exe.config
+D:\찬형\방학 세미나\chat2\chat2\chat2\bin\Debug\chat2.exe
+D:\찬형\방학 세미나\chat2\chat2\chat2\bin\Debug\chat2.pdb
+D:\찬형\방학 세미나\chat2\chat2\chat2\obj\Debug\chat2.csprojResolveAssemblyReference.cache
+D:\찬형\방학 세미나\chat2\chat2\chat2\obj\Debug\chat2.Form1.resources
+D:\찬형\방학 세미나\chat2\chat2\chat2\obj\Debug\chat2.Properties.Resources.resources
+D:\찬형\방학 세미나\chat2\chat2\chat2\obj\Debug\chat2.csproj.GenerateResource.Cache
+D:\찬형\방학 세미나\chat2\chat2\chat2\obj\Debug\chat2.exe
+D:\찬형\방학 세미나\chat2\chat2\chat2\obj\Debug\chat2.pdb
